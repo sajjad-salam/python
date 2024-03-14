@@ -11,5 +11,9 @@
   وراهة تستعملهة 
 
   ```bash
-  pip install pipreqs
+  pipreqs C:\Users\sajjad\Downloads\sajjad_bot --force
 ```
+تخلي بمكان 
+
+C:\Users\sajjad\Downloads\sajjad_bot
+المسار مالتك
