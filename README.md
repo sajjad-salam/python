@@ -20,4 +20,16 @@ pipreqs C:\Users\sajjad\Downloads\sajjad_bot --force
 
 C:\Users\sajjad\Downloads\sajjad_bot
 المسار مالتك
+
+##  تحويل ملف بايثون الى ملف مشروع exe للحاسبة
+-  تثبت هاي  
+
+``` python
+python -m pip install auto-py-to-exe
+```
+
+
+-  وراهة تشغل  
+``` python
+python -m auto_py_to_exe
 ```
