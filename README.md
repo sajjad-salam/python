@@ -1,19 +1,25 @@
-# شغلات تفيد ببايثون 
+# شغلات تفيد ببايثون
 
 ## تثبيت المكتبات
 
-- استخراج ملف الركوايرمنت للمشروع  `pipreqs`:
+- استخراج ملف الركوايرمنت للمشروع `pipreqs`:
   ```bash
   pip install pipreqs
-```
-  اول شي تثبت هاي 
+  ```
 
-  وراهة تستعملهة 
-
-  ```bash
-  pipreqs C:\Users\sajjad\Downloads\sajjad_bot --force
 ```
-تخلي بمكان 
+  اول شي تثبت هاي
+
+  وراهة تستعملهة
+
+
+```
+
+pipreqs C:\Users\sajjad\Downloads\sajjad_bot --force
+
+```
+تخلي بمكان
 
 C:\Users\sajjad\Downloads\sajjad_bot
 المسار مالتك
+```
