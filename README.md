@@ -67,6 +67,8 @@ chmod +x  Fix-Termux.sh
 ```
 
 
+$$
 ~~في حالة انو ال pip  ميشتغل عندك شوف هذا الشرح 
-~~
+
+$$~~
 [https://stackoverflow.com/questions/23708898/pip-is-not-recognized-as-an-internal-or-external-command](https://)
