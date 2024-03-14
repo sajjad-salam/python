@@ -7,16 +7,14 @@
   pip install pipreqs
   ```
 
-```
   اول شي تثبت هاي
 
   وراهة تستعملهة
 
 
+
 ```
-
 pipreqs C:\Users\sajjad\Downloads\sajjad_bot --force
-
 ```
 تخلي بمكان
 
