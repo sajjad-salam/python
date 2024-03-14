@@ -33,3 +33,35 @@ python -m pip install auto-py-to-exe
 ``` python
 python -m auto_py_to_exe
 ```
+
+
+# **اداة مساعدة لتثبيت مكاتب تيرمكس دفعة واحدة وحل جميع المشاكل 🔐
+**
+# طريقة الاستخدام تنسخ الاوامر بل سرا  🎈
+```
+pkg install git 
+```
+
+```
+ git clone https://github.com/pro-root/Fix-Termux 
+```
+
+```
+ ls 
+```
+
+```
+ cd Fix-Termux 
+```
+
+```
+ ls 
+```
+
+```
+chmod +x  Fix-Termux.sh 
+```
+
+```
+ bash Fix-Termux.sh
+```
